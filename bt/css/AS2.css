@@ -1,0 +1,26 @@
+.container {
+    padding: 5px;
+}
+
+
+#title1 {
+    background-image: url("https://cc.tvbs.com.tw/img/upload/2018/08/23/20180823114541-2fef6360.jpg");
+    background-position:center;
+    height: 400px;
+    background-size: cover;
+    margin-bottom: 0px; 
+    background-position:0 70%; 
+}
+#arti1{
+    background-color:white; 
+
+}
+
+#arti2{
+    background-color:white;
+}
+
+#arti3{
+    background-color:white;
+ 
+}
